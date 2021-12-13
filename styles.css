@@ -1,3 +1,31 @@
 body{
     background-color: steelblue;
 }
+.container-navigation{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.CARP-section {
+    background-color: slategrey;
+    padding: 8px 0px 0px 0px;
+}
+.CARP-images {
+    width: 275px;
+}
+.CARP-image{
+    width: 275px;
+    height: 275px;
+    padding: 4px;
+}
+.CARP-text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    color: black;
+    font-size: 24px;
+    font-weight: normal;
+}
+.container{
+    display: flex;
+}
