@@ -25,6 +25,7 @@ body{
     color: black;
     font-size: 18px;
     font-weight: normal;
+    padding: 10px;
 }
 .container{
     display: flex;
