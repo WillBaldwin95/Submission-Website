@@ -9,7 +9,7 @@ body{
 }
 .CARP-section {
     background-color: slategrey;
-    padding: 8px 0px 0px 0px;
+    padding: 10px 10px 10px 10px;
 }
 .CARP-images {
     width: 360px;
@@ -28,4 +28,16 @@ body{
 }
 .container{
     display: flex;
+}
+.Typography-section{
+    background-color: slategrey;
+    padding: 10px 10px 10px 10px;
+}
+.type-images{
+    width: 320px
+}
+.type-image{
+    width: 300px;
+    height: 300px;
+    padding: 20px
 }
