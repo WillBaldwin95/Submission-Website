@@ -12,18 +12,18 @@ body{
     padding: 8px 0px 0px 0px;
 }
 .CARP-images {
-    width: 275px;
+    width: 360px;
 }
 .CARP-image{
-    width: 275px;
-    height: 275px;
-    padding: 4px;
+    width: 350px;
+    height: 496px;
+    padding: 20px;
 }
 .CARP-text{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: left;
     color: black;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: normal;
 }
 .container{
