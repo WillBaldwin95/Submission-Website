@@ -7,14 +7,14 @@ body{
     flex-direction: row;
     justify-content: flex-start;
 }
-.CARP-section {
+.CARP-section{
     background-color: slategrey;
     padding: 10px 10px 10px 10px;
 }
-.CARP-images {
+.CARP-images{
     width: 360px;
 }
-.CARP-images-final {
+.CARP-images-final{
     width: 530px;
 }
 .CARP-image{
@@ -31,7 +31,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     color: black;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: normal;
     padding: 10px;
 }
@@ -39,7 +39,7 @@ body{
     display: flex;
 }
 .Typography-section{
-    background-color: rgb(31, 32, 109);
+    background-color: rgb(36, 37, 112);
     padding: 10px 10px 10px 10px;
 }
 .type-images{
@@ -49,4 +49,16 @@ body{
     width: 450px;
     height: 450px;
     padding: 20px
+}
+.type-text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-weight: normal;
+    padding: 10px;
+}
+.Coding-section{
+    background-color: rgb(22, 24, 88);
+    padding: 10px 10px 10px 10px;
 }
