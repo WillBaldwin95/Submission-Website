@@ -14,9 +14,17 @@ body{
 .CARP-images {
     width: 360px;
 }
+.CARP-images-final {
+    width: 530px;
+}
 .CARP-image{
     width: 350px;
     height: 496px;
+    padding: 5px;
+}
+.CARP-final{
+    width: 525px;
+    height: 744px;
     padding: 5px;
 }
 .CARP-text{
