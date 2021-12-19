@@ -17,11 +17,11 @@ body{
 .CARP-image{
     width: 350px;
     height: 496px;
-    padding: 20px;
+    padding: 5px;
 }
 .CARP-text{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: left;
+    text-align: center;
     color: black;
     font-size: 18px;
     font-weight: normal;
@@ -34,10 +34,10 @@ body{
     padding: 10px 10px 10px 10px;
 }
 .type-images{
-    width: 320px
+    width: 460px
 }
 .type-image{
-    width: 300px;
-    height: 300px;
+    width: 450px;
+    height: 450px;
     padding: 20px
 }
