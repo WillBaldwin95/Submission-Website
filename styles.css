@@ -72,14 +72,10 @@ body{
     background-color: slategrey;
     padding: 10px 10px 10px 10px;
 }
-ul{
-    list-style-type: none;
-    padding: 10px;
-}
 .ux-container{
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-evenly
 }
 .ux-text{
@@ -87,4 +83,18 @@ ul{
     text-align: left;
     font-size: 20px;
     font-weight: normal;
+}
+.ux-picture{
+    width: 302px;
+    height: 403px;
+    padding: 10px;
+}
+.ux-pictures{
+    width: 310px;
+}
+.footer-navigation{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly
 }
