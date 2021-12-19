@@ -39,7 +39,7 @@ body{
     display: flex;
 }
 .Typography-section{
-    background-color: slategrey;
+    background-color: rgb(31, 32, 109);
     padding: 10px 10px 10px 10px;
 }
 .type-images{
